@@ -1,0 +1,41 @@
+Output: Gerber X2 Files
+Type  : GerberX2
+From  : Project [GRAVITAS_CCU_HAS.PrjPcb]
+   Generated File[CCU_Copper_Signal_Top.gbr]
+   Generated File[CCU_Copper_Signal_1.gbr]
+   Generated File[CCU_Copper_Signal_2.gbr]
+   Generated File[CCU_Copper_Signal_3.gbr]
+   Generated File[CCU_Copper_Signal_4.gbr]
+   Generated File[CCU_Copper_Signal_Bot.gbr]
+   Generated File[CCU_Pads_Bot.gbr]
+   Generated File[CCU_Pads_Top.gbr]
+   Generated File[CCU_Paste_Bot.gbr]
+   Generated File[CCU_Legend_Bot.gbr]
+   Generated File[CCU_Soldermask_Bot.gbr]
+   Generated File[CCU_Legend_Top.gbr]
+   Generated File[CCU_Paste_Top.gbr]
+   Generated File[CCU_Soldermask_Top.gbr]
+   Generated File[CCU_Keep-out.gbr]
+   Generated File[CCU_Mechanical_4.gbr]
+   Generated File[CCU_Mechanical_2.gbr]
+   Generated File[CCU_Mechanical_1.gbr]
+   Generated File[CCU_Mechanical_3.gbr]
+   Generated File[CCU_Mechanical_7.gbr]
+   Generated File[CCU_Mechanical_15.gbr]
+   Generated File[CCU_Mechanical_13.gbr]
+   Generated File[CCU_Mechanical_6.gbr]
+   Generated File[CCU_Mechanical_5.gbr]
+   Generated File[CCU_Profile.gbr]
+   Generated File[CCU_NPTH_Drill.gbr]
+   Generated File[CCU_PTH_Drill.gbr]
+   Generated File[CCU_Drawing_1.gbr]
+   Generated File[CCU_Drillmap_1.gbr]
+   Generated File[CCU.RUL]
+   Generated File[CCU.EXTREP]
+   Generated File[CCU.REP]
+
+
+Files Generated   : 32
+Documents Printed : 0
+
+Finished Output Generation At 7:29:31 PM On 9/9/2019

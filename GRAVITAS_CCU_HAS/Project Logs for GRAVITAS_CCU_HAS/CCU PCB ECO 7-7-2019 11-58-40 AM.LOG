@@ -1,0 +1,14 @@
+Removed Pin From Net: NetName=GND Pin=J4-1
+Added Pin To Net: NetName=GND Pin=J4-3
+Added Pin To Net: NetName=NetJ4_1 Pin=J4-1
+Added Pin To Net: NetName=NetJ4_1 Pin=Q1-2
+Added Net: Name=NetJ4_1
+Added Room: Name=CTL_RELAY_SHEET1_CCU_HAS
+Added Room: Name=CTL_RELAY_SHEET2_CCU_HAS
+Added Room: Name=ETH_ICD_CCU_HAS
+Added Room: Name=HEADERS_HAS_CCU
+Added Room: Name=MCU_SUPPORT_CCU_HAS
+Added Room: Name=RS485_CCU_HAS
+Added Room: Name=UI_CCU_HAS
+Added Room: Name=USB_BREAKOUTS_CCU_HAS
+Added Room: Name=VREG_CCU_HAS

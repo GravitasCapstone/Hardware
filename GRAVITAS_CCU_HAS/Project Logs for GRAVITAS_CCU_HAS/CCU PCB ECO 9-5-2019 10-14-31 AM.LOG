@@ -1,0 +1,130 @@
+Added Component: Designator=C74(NonPolar-0402)
+Add component. Clean all parameters for all variants
+Added Component: Designator=C75(NonPolar-0402)
+Add component. Clean all parameters for all variants
+Added Component: Designator=C76(NonPolar-0402)
+Add component. Clean all parameters for all variants
+Added Component: Designator=C77(NonPolar-0402)
+Add component. Clean all parameters for all variants
+Added Component: Designator=C78(NonPolar-0402)
+Add component. Clean all parameters for all variants
+Added Component: Designator=C79(NonPolar-0402)
+Add component. Clean all parameters for all variants
+Added Component: Designator=C80(NonPolar-0402)
+Add component. Clean all parameters for all variants
+Added Component: Designator=C81(NonPolar-0402)
+Add component. Clean all parameters for all variants
+Added Component: Designator=C82(NonPolar-0402)
+Add component. Clean all parameters for all variants
+Added Component: Designator=C83(NonPolar-0402)
+Add component. Clean all parameters for all variants
+Added Component: Designator=C84(NonPolar-0402)
+Add component. Clean all parameters for all variants
+Added Component: Designator=C85(NonPolar-0402)
+Add component. Clean all parameters for all variants
+Added Component: Designator=C86(NonPolar-0402)
+Add component. Clean all parameters for all variants
+Added Component: Designator=C87(NonPolar-0402)
+Add component. Clean all parameters for all variants
+Added Component: Designator=C88(NonPolar-0402)
+Add component. Clean all parameters for all variants
+Added Component: Designator=C89(NonPolar-0402)
+Add component. Clean all parameters for all variants
+Added Component: Designator=C90(NonPolar-0402)
+Add component. Clean all parameters for all variants
+Added Component: Designator=C91(NonPolar-0402)
+Add component. Clean all parameters for all variants
+Added Component: Designator=C92(NonPolar-0402)
+Add component. Clean all parameters for all variants
+Added Component: Designator=C93(NonPolar-0402)
+Add component. Clean all parameters for all variants
+Added Component: Designator=C94(NonPolar-0402)
+Add component. Clean all parameters for all variants
+Added Component: Designator=C95(NonPolar-0402)
+Add component. Clean all parameters for all variants
+Added Component: Designator=C96(NonPolar-0402)
+Add component. Clean all parameters for all variants
+Added Component: Designator=C97(NonPolar-0402)
+Add component. Clean all parameters for all variants
+Added Component: Designator=C98(NonPolar-0402)
+Add component. Clean all parameters for all variants
+Added Component: Designator=C99(NonPolar-0402)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=GND Pin=C74-1
+Added Pin To Net: NetName=6V5DC Pin=C74-2
+Added Pin To Net: NetName=GND Pin=C75-1
+Added Pin To Net: NetName=6V5DC Pin=C75-2
+Added Pin To Net: NetName=GND Pin=C76-1
+Added Pin To Net: NetName=6V5DC Pin=C76-2
+Added Pin To Net: NetName=5VDC Pin=C77-1
+Added Pin To Net: NetName=6V5DC Pin=C77-2
+Added Pin To Net: NetName=5VDC Pin=C78-1
+Added Pin To Net: NetName=6V5DC Pin=C78-2
+Added Pin To Net: NetName=5VDC Pin=C79-1
+Added Pin To Net: NetName=6V5DC Pin=C79-2
+Added Pin To Net: NetName=GND Pin=C80-1
+Added Pin To Net: NetName=5VDC Pin=C80-2
+Added Pin To Net: NetName=GND Pin=C81-1
+Added Pin To Net: NetName=5VDC Pin=C81-2
+Added Pin To Net: NetName=GND Pin=C82-1
+Added Pin To Net: NetName=5VDC Pin=C82-2
+Added Pin To Net: NetName=GND Pin=C83-1
+Added Pin To Net: NetName=5VDC Pin=C83-2
+Added Pin To Net: NetName=GND Pin=C84-1
+Added Pin To Net: NetName=5VDC Pin=C84-2
+Added Pin To Net: NetName=GND Pin=C85-1
+Added Pin To Net: NetName=5VDC Pin=C85-2
+Added Pin To Net: NetName=5VDC Pin=C86-1
+Added Pin To Net: NetName=3V3DC Pin=C86-2
+Added Pin To Net: NetName=5VDC Pin=C87-1
+Added Pin To Net: NetName=3V3DC Pin=C87-2
+Added Pin To Net: NetName=5VDC Pin=C88-1
+Added Pin To Net: NetName=3V3DC Pin=C88-2
+Added Pin To Net: NetName=5VDC Pin=C89-1
+Added Pin To Net: NetName=3V3DC Pin=C89-2
+Added Pin To Net: NetName=5VDC Pin=C90-1
+Added Pin To Net: NetName=3V3DC Pin=C90-2
+Added Pin To Net: NetName=5VDC Pin=C91-1
+Added Pin To Net: NetName=3V3DC Pin=C91-2
+Added Pin To Net: NetName=GND Pin=C92-1
+Added Pin To Net: NetName=3V3DC Pin=C92-2
+Added Pin To Net: NetName=GND Pin=C93-1
+Added Pin To Net: NetName=3V3DC Pin=C93-2
+Added Pin To Net: NetName=GND Pin=C94-1
+Added Pin To Net: NetName=3V3DC Pin=C94-2
+Added Pin To Net: NetName=GND Pin=C95-1
+Added Pin To Net: NetName=3V3DC Pin=C95-2
+Added Pin To Net: NetName=GND Pin=C96-1
+Added Pin To Net: NetName=3V3DC Pin=C96-2
+Added Pin To Net: NetName=GND Pin=C97-1
+Added Pin To Net: NetName=3V3DC Pin=C97-2
+Added Pin To Net: NetName=GND Pin=C98-1
+Added Pin To Net: NetName=3V3DC Pin=C98-2
+Added Pin To Net: NetName=GND Pin=C99-1
+Added Pin To Net: NetName=3V3DC Pin=C99-2
+Added Member To Class: ClassName=VREG_CCU_HAS Member=Component C74 0.1uF
+Added Member To Class: ClassName=VREG_CCU_HAS Member=Component C75 0.1uF
+Added Member To Class: ClassName=VREG_CCU_HAS Member=Component C76 0.1uF
+Added Member To Class: ClassName=VREG_CCU_HAS Member=Component C77 0.1uF
+Added Member To Class: ClassName=VREG_CCU_HAS Member=Component C78 0.1uF
+Added Member To Class: ClassName=VREG_CCU_HAS Member=Component C79 0.1uF
+Added Member To Class: ClassName=VREG_CCU_HAS Member=Component C80 0.1uF
+Added Member To Class: ClassName=VREG_CCU_HAS Member=Component C81 0.1uF
+Added Member To Class: ClassName=VREG_CCU_HAS Member=Component C82 0.1uF
+Added Member To Class: ClassName=VREG_CCU_HAS Member=Component C83 0.1uF
+Added Member To Class: ClassName=VREG_CCU_HAS Member=Component C84 0.1uF
+Added Member To Class: ClassName=VREG_CCU_HAS Member=Component C85 0.1uF
+Added Member To Class: ClassName=VREG_CCU_HAS Member=Component C86 0.1uF
+Added Member To Class: ClassName=VREG_CCU_HAS Member=Component C87 0.1uF
+Added Member To Class: ClassName=VREG_CCU_HAS Member=Component C88 0.1uF
+Added Member To Class: ClassName=VREG_CCU_HAS Member=Component C89 0.1uF
+Added Member To Class: ClassName=VREG_CCU_HAS Member=Component C90 0.1uF
+Added Member To Class: ClassName=VREG_CCU_HAS Member=Component C91 0.1uF
+Added Member To Class: ClassName=VREG_CCU_HAS Member=Component C92 0.1uF
+Added Member To Class: ClassName=VREG_CCU_HAS Member=Component C93 0.1uF
+Added Member To Class: ClassName=VREG_CCU_HAS Member=Component C94 0.1uF
+Added Member To Class: ClassName=VREG_CCU_HAS Member=Component C95 0.1uF
+Added Member To Class: ClassName=VREG_CCU_HAS Member=Component C96 0.1uF
+Added Member To Class: ClassName=VREG_CCU_HAS Member=Component C97 0.1uF
+Added Member To Class: ClassName=VREG_CCU_HAS Member=Component C98 0.1uF
+Added Member To Class: ClassName=VREG_CCU_HAS Member=Component C99 0.1uF

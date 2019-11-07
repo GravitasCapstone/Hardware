@@ -1,0 +1,6 @@
+Added Member To Class: ClassName=VREG_RS485_ZS Member=Component J1 1824653
+Added Room: Name=LEDS_SENSOR_ZS
+Added Room: Name=MCU_SUPPORT_ZS
+Added Room: Name=VREG_RS485_ZS
+Added Rule: Name=Schematic Differential Pairs Routing_2
+Added Rule: Name=Schematic Differential Pairs Routing_3

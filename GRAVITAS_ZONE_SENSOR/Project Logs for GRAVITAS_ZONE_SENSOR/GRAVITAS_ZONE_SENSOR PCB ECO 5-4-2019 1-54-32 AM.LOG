@@ -1,0 +1,13 @@
+Added Component: Designator=U2(HDC2080)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=NetR1_1 Pin=U2-1
+Added Pin To Net: NetName=GND Pin=U2-2
+Added Pin To Net: NetName=GND Pin=U2-3
+Added Pin To Net: NetName=NetP1_1 Pin=U2-4
+Added Pin To Net: NetName=3V3DC Pin=U2-5
+Added Pin To Net: NetName=NetR2_1 Pin=U2-6
+Added Pin To Net: NetName=GND Pin=U2-7
+Added Member To Class: ClassName=LEDS_SENSOR_ZS Member=Component U2 HDC2080
+Added Room: Name=LEDS_SENSOR_ZS
+Added Room: Name=MCU_SUPPORT_ZS
+Added Room: Name=VREG_RS485_ZS

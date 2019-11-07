@@ -1,0 +1,55 @@
+Removed Pin From Net: NetName=GND Pin=C45-1
+Removed Pin From Net: NetName=NetB1_1 Pin=C45-2
+Removed Pin From Net: NetName=GND Pin=C46-1
+Removed Pin From Net: NetName=NetB4_1 Pin=C46-2
+Removed Pin From Net: NetName=GND Pin=C47-1
+Removed Pin From Net: NetName=NetB2_1 Pin=C47-2
+Removed Pin From Net: NetName=GND Pin=C48-1
+Removed Pin From Net: NetName=NetB5_1 Pin=C48-2
+Removed Pin From Net: NetName=GND Pin=C49-1
+Removed Pin From Net: NetName=NetB3_1 Pin=C49-2
+Removed Pin From Net: NetName=NetB3_1 Pin=U1-2
+Removed Pin From Net: NetName=NetB5_1 Pin=U1-56
+Removed Pin From Net: NetName=NetB1_1 Pin=U1-87
+Removed Pin From Net: NetName=NetB2_1 Pin=U1-129
+Removed Pin From Net: NetName=NetB4_1 Pin=U1-130
+Removed Member From Class: ClassName=UI_CCU_HAS Member=C45
+Removed Member From Class: ClassName=UI_CCU_HAS Member=C46
+Removed Member From Class: ClassName=UI_CCU_HAS Member=C47
+Removed Member From Class: ClassName=UI_CCU_HAS Member=C48
+Removed Member From Class: ClassName=UI_CCU_HAS Member=C49
+Added Component: Designator=R128(NonPolar-0603)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R129(NonPolar-0603)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R130(NonPolar-0603)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R131(NonPolar-0603)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R132(NonPolar-0603)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=NetB1_1 Pin=R128-1
+Added Pin To Net: NetName=NetB4_1 Pin=R129-1
+Added Pin To Net: NetName=NetB2_1 Pin=R130-1
+Added Pin To Net: NetName=NetB5_1 Pin=R131-1
+Added Pin To Net: NetName=NetB3_1 Pin=R132-1
+Added Pin To Net: NetName=NetR128_2 Pin=R128-2
+Added Pin To Net: NetName=NetR128_2 Pin=U1-87
+Added Net: Name=NetR128_2
+Added Pin To Net: NetName=NetR129_2 Pin=R129-2
+Added Pin To Net: NetName=NetR129_2 Pin=U1-130
+Added Net: Name=NetR129_2
+Added Pin To Net: NetName=NetR130_2 Pin=R130-2
+Added Pin To Net: NetName=NetR130_2 Pin=U1-129
+Added Net: Name=NetR130_2
+Added Pin To Net: NetName=NetR131_2 Pin=R131-2
+Added Pin To Net: NetName=NetR131_2 Pin=U1-56
+Added Net: Name=NetR131_2
+Added Pin To Net: NetName=NetR132_2 Pin=R132-2
+Added Pin To Net: NetName=NetR132_2 Pin=U1-2
+Added Net: Name=NetR132_2
+Added Member To Class: ClassName=UI_CCU_HAS Member=Component R128 100R - 0603
+Added Member To Class: ClassName=UI_CCU_HAS Member=Component R129 100R - 0603
+Added Member To Class: ClassName=UI_CCU_HAS Member=Component R130 100R - 0603
+Added Member To Class: ClassName=UI_CCU_HAS Member=Component R131 100R - 0603
+Added Member To Class: ClassName=UI_CCU_HAS Member=Component R132 100R - 0603

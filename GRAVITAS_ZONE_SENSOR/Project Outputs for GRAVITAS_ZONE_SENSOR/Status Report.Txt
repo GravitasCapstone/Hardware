@@ -1,0 +1,39 @@
+Output: Gerber X2 Files
+Type  : GerberX2
+From  : Project [GRAVITAS_ZONE_SENSOR.PrjPcb]
+   Generated File[GRAVITAS_ZONE_SENSOR_Copper_Signal_Top.gbr]
+   Generated File[GRAVITAS_ZONE_SENSOR_Copper_Signal_1.gbr]
+   Generated File[GRAVITAS_ZONE_SENSOR_Copper_Signal_2.gbr]
+   Generated File[GRAVITAS_ZONE_SENSOR_Copper_Signal_Bot.gbr]
+   Generated File[GRAVITAS_ZONE_SENSOR_Pads_Bot.gbr]
+   Generated File[GRAVITAS_ZONE_SENSOR_Pads_Top.gbr]
+   Generated File[GRAVITAS_ZONE_SENSOR_Legend_Bot.gbr]
+   Generated File[GRAVITAS_ZONE_SENSOR_Soldermask_Bot.gbr]
+   Generated File[GRAVITAS_ZONE_SENSOR_Paste_Bot.gbr]
+   Generated File[GRAVITAS_ZONE_SENSOR_Legend_Top.gbr]
+   Generated File[GRAVITAS_ZONE_SENSOR_Paste_Top.gbr]
+   Generated File[GRAVITAS_ZONE_SENSOR_Soldermask_Top.gbr]
+   Generated File[GRAVITAS_ZONE_SENSOR_Keep-out.gbr]
+   Generated File[GRAVITAS_ZONE_SENSOR_Mechanical_13.gbr]
+   Generated File[GRAVITAS_ZONE_SENSOR_Mechanical_4.gbr]
+   Generated File[GRAVITAS_ZONE_SENSOR_Mechanical_6.gbr]
+   Generated File[GRAVITAS_ZONE_SENSOR_Mechanical_2.gbr]
+   Generated File[GRAVITAS_ZONE_SENSOR_Mechanical_5.gbr]
+   Generated File[GRAVITAS_ZONE_SENSOR_Mechanical_1.gbr]
+   Generated File[GRAVITAS_ZONE_SENSOR_Mechanical_3.gbr]
+   Generated File[GRAVITAS_ZONE_SENSOR_Mechanical_7.gbr]
+   Generated File[GRAVITAS_ZONE_SENSOR_Mechanical_15.gbr]
+   Generated File[GRAVITAS_ZONE_SENSOR_Profile.gbr]
+   Generated File[GRAVITAS_ZONE_SENSOR_NPTH_Drill.gbr]
+   Generated File[GRAVITAS_ZONE_SENSOR_PTH_Drill.gbr]
+   Generated File[GRAVITAS_ZONE_SENSOR_Drawing_1.gbr]
+   Generated File[GRAVITAS_ZONE_SENSOR_Drillmap_1.gbr]
+   Generated File[GRAVITAS_ZONE_SENSOR.RUL]
+   Generated File[GRAVITAS_ZONE_SENSOR.EXTREP]
+   Generated File[GRAVITAS_ZONE_SENSOR.REP]
+
+
+Files Generated   : 30
+Documents Printed : 0
+
+Finished Output Generation At 7:10:42 PM On 8/6/2019

@@ -1,0 +1,9 @@
+Removed Pin From Net: NetName=6V5DC Pin=P9-2
+Added Pin To Net: NetName=6V5DC Pin=P8-1
+Added Pin To Net: NetName=6V5DC Pin=Q4-3
+Change Net Name : Old Net Name=6V5DC New Net Name=+V
+Added Pin To Net: NetName=6V5DC Pin=P9-2
+Added Net: Name=6V5DC
+Added Room: Name=LEDS_SENSOR_ZS
+Added Room: Name=MCU_SUPPORT_ZS
+Added Room: Name=VREG_RS485_ZS
